@@ -1,5 +1,18 @@
 # Reverting
 
+- [Reverting](#reverting)
+  - [Overview](#overview)
+  - [Reverting](#reverting-1)
+    - [Reviewing the history of a repository](#reviewing-the-history-of-a-repository)
+    - [Reverting the Last Commit](#reverting-the-last-commit)
+    - [Reverting Multiple Commits](#reverting-multiple-commits)
+  - [Resetting](#resetting)
+  - [Tutorial](#tutorial)
+    - [Initialise a Repository](#initialise-a-repository)
+    - [Revert the Fourth Commit](#revert-the-fourth-commit)
+    - [Reset to the Second Commit](#reset-to-the-second-commit)
+  - [Exercises](#exercises)
+
 ## Overview
 
 If you ever wish to reset the project to a particular point in the version history, you can **revert** or **reset** the project to any previous commit.
