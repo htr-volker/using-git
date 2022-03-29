@@ -336,7 +336,7 @@ This is because it would think that our local Git history isn't up to date. In t
     second change
     ```
 
-    The 
+     
 
 4. View the commit history:
 
