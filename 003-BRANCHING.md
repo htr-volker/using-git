@@ -281,7 +281,7 @@ This tutorial will take you through how to:
 8. Stage and commit the new file:
 
     ```bash
-    git add README.md
+    git add file_A
     git commit -m "init commit - added file_A"
     ```
 
