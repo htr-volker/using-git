@@ -117,7 +117,7 @@ Using `--no-commit` allows us to commit multiple reverts with a single commit.
 A simpler way to achieve the same result is to use `git checkout` like so:
 
 ```bash
-git revert --force 5595008 -- .
+git checkout -f 5595008 -- .
 git commit -m "Reverting to first commit"
 ```
 
